@@ -1,0 +1,218 @@
+PK_municipio,nome_municipio,pop_municipio
+0,São Luís,1108975
+1,Açailândia,113121
+2,Imperatriz,259337
+3,Paço do Lumiar,123747
+4,São José de Ribamar,179028
+5,Timon,170222
+6,Cajapió,11216
+7,Santa Inês,89489
+8,São Benedito do Rio Preto,18717
+9,Colinas,41312
+10,Icatu,27269
+11,Raposa,31177
+12,Urbano Santos,33459
+13,Cachoeira Grande,9478
+14,Cantanhede,22117
+15,Chapadinha,80195
+16,Viana,52649
+17,Vitória do Mearim,32861
+18,Altamira do Maranhão,8189
+19,Caxias,165525
+20,Mirinzal,15011
+21,Santa Rita,38298
+22,Zé Doca,51956
+23,Governador Nunes Freire,25539
+24,Davinópolis,12916
+25,Bacabal,104790
+26,Bacabeira,17252
+27,Itapecuru Mirim,68723
+28,Trizidela do Vale,22112
+29,Barreirinhas,63217
+30,Miranda do Norte,28754
+31,Morros,19572
+32,Tuntum,42040
+33,Vargem Grande,57168
+34,Alcântara,22112
+35,Arari,29932
+36,Cururupu,32626
+37,Junco do Maranhão,4392
+38,Matinha,23482
+39,Rosário,42994
+40,Anajatuba,26988
+41,Balsas,95929
+42,Milagres do Maranhão,8483
+43,Vitorino Freire,31522
+44,Presidente Juscelino,12838
+45,Pedreiras,39191
+46,São João dos Patos,25996
+47,Codó,123116
+48,Lago da Pedra,50616
+49,Monção,33664
+50,Alto Alegre do Pindaré,31943
+51,Dom Pedro,23372
+52,Mata Roma,16977
+53,São Francisco do Brejão,11941
+54,São João Batista,20701
+55,Governador Edison Lobão,18520
+56,Presidente Dutra,48036
+57,Brejo,36651
+58,Buriticupu,72983
+59,Centro Novo do Maranhão,21840
+60,Estreito,42527
+61,Olho d'Água das Cunhãs,19561
+62,Bom Jardim,41822
+63,Conceição do Lago-Açu,16400
+64,Magalhães de Almeida,20029
+65,Alto Alegre do Maranhão,27858
+66,Amarante do Maranhão,41729
+67,Coelho Neto,49621
+68,Olinda Nova do Maranhão,14836
+69,Peritoró,23364
+70,Pinheiro,83777
+71,Senador La Rocque,14050
+72,São Mateus do Maranhão,41579
+73,Araguanã,15551
+74,Governador Newton Bello,10151
+75,Humberto de Campos,28932
+76,Lima Campos,11918
+77,Porto Franco,24092
+78,Serrano do Maranhão,10299
+79,São Luís Gonzaga do Maranhão,18727
+80,Tutóia,59398
+81,Axixá,12183
+82,Bela Vista do Maranhão,11279
+83,Bequimão,21299
+84,Esperantinópolis,17104
+85,Guimarães,11997
+86,Paulino Neves,16166
+87,Presidente Médici,7070
+88,Aldeias Altas,26757
+89,Apicum-Açu,17413
+90,Bom Lugar,16438
+91,Duque Bacelar,11401
+92,Maracaçumé,21586
+93,Nova Olinda do Maranhão,21080
+94,Santa Luzia,72887
+95,Satubinha,14096
+96,São Vicente Ferrer,22350
+97,Buritirana,15467
+98,Coroatá,65544
+99,Igarapé do Meio,14324
+100,Penalva,38731
+101,Pindaré-Mirim,33065
+102,Pirapemas,18720
+103,São Bento,45604
+104,São Francisco do Maranhão,12218
+105,São João do Carú,15787
+106,Sítio Novo,18160
+107,Anapurus,15894
+108,Buriti,28798
+109,Cajari,19451
+110,Grajaú,70065
+111,Itinga do Maranhão,26068
+112,Santa Helena,42483
+113,Barra do Corda,88492
+114,Carutapera,23952
+115,Cândido Mendes,20278
+116,Fortaleza dos Nogueiras,12647
+117,João Lisboa,23740
+118,Santa Luzia do Paruá,25371
+119,Santa Quitéria do Maranhão,25764
+120,Amapá do Maranhão,7005
+121,Joselândia,16198
+122,Lago dos Rodrigues,8857
+123,Luís Domingues,6984
+124,Montes Altos,9111
+125,Peri Mirim,14345
+126,Presidente Sarney,19069
+127,Bom Jesus das Selvas,34567
+128,Pedro do Rosário,25354
+129,Pio XII,21379
+130,Porto Rico do Maranhão,5955
+131,São Pedro da Água Branca,12735
+132,Turiaçu,35709
+133,Arame,32764
+134,Fernando Falcão,10460
+135,Palmeirândia,19781
+136,Presidente Vargas,11261
+137,Riachão,20334
+138,Turilândia,25868
+139,Água Doce do Maranhão,12652
+140,Araioses,46771
+141,Barão de Grajaú,18924
+142,Belágua,7528
+143,Boa Vista do Gurupi,8382
+144,Capinzal do Norte,10935
+145,Centro do Guilherme,13670
+146,Maranhãozinho,16511
+147,Santana do Maranhão,13547
+148,Santo Antônio dos Lopes,14522
+149,Senador Alexandre Costa,11214
+150,São Bernardo,28667
+151,São Domingos do Maranhão,34384
+152,São Pedro dos Crentes,4684
+153,Timbiras,29183
+154,Buriti Bravo,23939
+155,Lajeado Novo,7602
+156,Paulo Ramos,21066
+157,Ribamar Fiquene,7825
+158,Cedral,10693
+159,Cidelândia,14777
+160,Mirador,21031
+161,Paraibano,21479
+162,Vila Nova dos Martírios,13598
+163,Fortuna,15567
+164,Gonçalves Dias,17944
+165,Governador Archer,10886
+166,Bacuri,18654
+167,Godofredo Viana,11963
+168,São Raimundo das Mangabeiras,18980
+169,Campestre do Maranhão,14453
+170,Central do Maranhão,8740
+171,Formosa da Serra Negra,19258
+172,Governador Eugênio Barros,16882
+173,Alto Parnaíba,11212
+174,Bacurituba,5670
+175,Bernardo do Mearim,6073
+176,Feira Nova do Maranhão,8484
+177,Santa Filomena do Maranhão,7826
+178,Graça Aranha,6261
+179,Jenipapo dos Vieiras,17040
+180,Lago Verde,16314
+181,Nina Rodrigues,14642
+182,Poção de Pedras,17595
+183,Primeira Cruz,15431
+184,Santo Amaro do Maranhão,16034
+185,São José dos Basílios,7640
+186,Carolina,24165
+187,Itaipava do Grajaú,16005
+188,Lagoa Grande do Maranhão,11464
+189,São Domingos do Azeitão,7420
+190,Igarapé Grande,11387
+191,Lago do Junco,10869
+192,Matões do Norte,17033
+193,Nova Colinas,5427
+194,São João do Soter,18645
+195,São Raimundo do Doca Bezerra,5131
+196,Brejo de Areia,9014
+197,Sambaíba,5679
+198,Tufilândia,5854
+199,Afonso Cunha,6578
+200,Parnarama,35008
+201,Tasso Fragoso,8582
+202,Jatobá,10310
+203,Benedito Leite,5638
+204,Pastos Bons,19583
+205,São João do Paraíso,11193
+206,Governador Luiz Rocha,7841
+207,Matões,33943
+208,Lagoa do Mato,11265
+209,Loreto,12214
+210,Marajá do Sena,7775
+211,Nova Iorque,4682
+212,Passagem Franca,19137
+213,Sucupira do Norte,10634
+214,Sucupira do Riachão,5676
+215,São Félix de Balsas,4562
+216,São Roberto,6789
